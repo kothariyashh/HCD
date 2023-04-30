@@ -12,6 +12,7 @@ This smart attendance system is a technology-based solution that uses facial rec
  python hcd.py
 
 **How to Use**
+
 1.Ensure that the camera is connected and working properly.
 2.Launch the application by running the hcd.py script.
 3.Register new users by clicking on the "For New Registration" button and providing the required information.
