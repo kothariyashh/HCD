@@ -73,7 +73,7 @@ For New Registration:
 Take Attendance:
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/95516314/235356208-68ffcab3-5459-4e60-90b7-6595610b711b.png">
 
-Show Attendace taken:
+Show Attendance taken:
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95516314/235356254-f8c5b0eb-e3d0-4552-903f-b1a61803f222.png">
 
 Help Menu:
