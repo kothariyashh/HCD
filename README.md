@@ -30,8 +30,6 @@ This smart attendance system is a technology-based solution that uses facial rec
 
 5 - The attendance data will be stored in the folder of Attendance\Attendance_date.csv can be viewed on the attendance table.
 
-
-#SCREENSHOTS
 **Dependencies:**
 
 Python 3.7+
