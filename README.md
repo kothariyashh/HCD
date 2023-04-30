@@ -1,2 +1,1 @@
-# HCD
-Project
+# Smart Attendance System using Face recognition
