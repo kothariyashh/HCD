@@ -62,6 +62,10 @@ Easy to use with interactive GUI support.
 
 - Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+# Youtube link for reference
+
+Youtube link: https://youtu.be/YVGM4aKMsTs
+
 # SCREENSHOTS
 
 Dashboard:
